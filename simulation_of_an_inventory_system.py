@@ -95,3 +95,4 @@ print("Average monthly holding cost:", avg_holding_cost)
 print("Average monthly backlog cost:", avg_backlog_cost)
 print("Average monthly ordering cost:", avg_order_cost)
 print("Total average monthly cost:", total_cost)
+
