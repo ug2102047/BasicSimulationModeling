@@ -85,3 +85,5 @@ plt.xlabel("Time (minutes)")
 plt.ylabel("Number in Queue Q(t)")
 plt.title("Queue Length Over Time (Single-Server Queue)")
 plt.show()
+
+
