@@ -98,3 +98,4 @@ print("Average monthly ordering cost:", avg_order_cost)
 print("Total average monthly cost:", total_cost)
 
 
+
