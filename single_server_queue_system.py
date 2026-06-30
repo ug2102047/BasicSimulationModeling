@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 
 MEAN_INTERARRIVAL = 1.0   # minutes  গ্রাহক গড়ে প্রতি 1 মিনিটে আসে
